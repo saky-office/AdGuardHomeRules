@@ -1,15 +1,11 @@
 &nbsp;
 <p align="center">
-  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
+  <img src="https://cdn.adguard.info/website/adguard.com/products/home/home.svg" width="300px" alt="AdGuard Home" />
 </p>
 
-<h3 align="center">Privacy protection center for you and your devices</h3>
+<h3 align="center">AdGuard Home</h3>
 <p align="center">
-  Free and open source, powerful network-wide ads & trackers blocking DNS server.
-</p>
-
-<p align="center">
-    <a href="https://github.com/233Bazinga/AdGuardHome/blob/master/README.md">English Version</a> 
+  其他部分规则
 </p>
 
 <br />
