@@ -12,15 +12,20 @@
 </p>
 
 <br />
-# USE
-wenjian
+## 操作参考
+1. 进入AdGuardHome过滤器-DNS黑名单；
+2. 选择添加过滤器输入名称 ，url地址填入下方 🔗链接；
+3. 点击确认后即生效
+
+## 规则
 ### 主规则
+
 🚀文件|	🔗链接|	备注
 ---|---|---
 all.txt|[🔗link](./all.txt)|完整版
 all-lite.txt|[🔗link](./all-lite.txt)|精简版
 skyrules.txt|[🔗link](./skyrules.txt)|@BlueSkyXN
-ok.txt|[🔗link](./ok.txt)|
+ok.txt|[🔗link](./ok.txt)|-
 easylist.txt|[🔗link](https://anti-ad.net/easylist.txt)|[@anti-ad](https://anti-ad.net/)
 
 ### 动漫&漫画网站定制规则【三个等级，互不相同，请叠加使用，越高等级越容易误杀】
