@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">您和您的设备的隐私保护中心</h3>
 <p align="center">
-  过滤列表文件会定期自动更新
+  过滤列表文件会定期更新
 </p>
 
 <p align="center">
