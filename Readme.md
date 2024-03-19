@@ -26,7 +26,7 @@
 
 🚀文件|	🔗链接|	备注
 ---|---|---
-all.txt|[🔗link](./all.txt)|完整版
+all.txt|[🔗link](https://mirror.ghproxy.com/https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt)|完整版
 all-lite.txt|[🔗link](./all-lite.txt)|精简版
 skyrules.txt|[🔗link](./skyrules.txt)|@BlueSkyXN
 ok.txt|[🔗link](./ok.txt)|-
