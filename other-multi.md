@@ -39,7 +39,7 @@ https://easylist-downloads.adblockplus.org/easylist-cookie.txt
 
 > 使用anti-AD能够屏蔽广告域名，能屏蔽电视盒子广告，屏蔽app内置广告，同时屏蔽了一些日志收集，大数据统计等涉及个人隐私信息的站点，能够保护个人隐私不被偷偷上传
 ```ini
-https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
+https://anti-ad.net/easylist.txt
 ```
 
 ## [CJX's Annoyance List](https://github.com/cjx82630/cjxlist)
