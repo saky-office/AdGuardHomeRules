@@ -1,6 +1,6 @@
 &nbsp;
 <p align="center">
-  <img src="https://cdn.adguard.info/website/adguard.com/products/home/home.svg" width="300px" alt="AdGuard Home" />
+  <img src="https://cdn.adguard.info/website/adguard.com/products/home/home.svg" width="400px" alt="AdGuard Home" />
 </p>
 
 <h3 align="center">AdGuard Home</h3>
