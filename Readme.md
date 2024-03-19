@@ -1,29 +1,38 @@
-# 简介
-高达百万级规则！由我原创&整理的 AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集
+&nbsp;
+<p align="center">
+  <img src="https://cdn.adguard.com/public/Adguard/Common/adguard_home.svg" width="300px" alt="AdGuard Home" />
+</p>
+<h3 align="center">您和您的设备的隐私保护中心</h3>
+<p align="center">
+  过滤列表文件会定期自动更新
+</p>
 
-请前往相关介绍博文：https://www.blueskyxn.com/202012/2940.html
+<p align="center">
+    <a href="https://github.com/AdguardTeam/AdGuardHome">适用于AdGuardHome</a> 
+</p>
 
+<br />
 # USE
-
+wenjian
 ### 主规则
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/all.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/ok.txt
+🚀文件|	🔗链接|	备注
+---|---|---
+all.txt|[🔗link](./all.txt)|完整版
+all-lite.txt|[🔗link](./all-lite.txt)|精简版
+skyrules.txt|[🔗link](./skyrules.txt)|@BlueSkyXN
+ok.txt|[🔗link](./ok.txt)|
+easylist.txt|[🔗link](https://anti-ad.net/easylist.txt)|[@anti-ad](https://anti-ad.net/)
 
 ### 动漫&漫画网站定制规则【三个等级，互不相同，请叠加使用，越高等级越容易误杀】
+🚀文件|	🔗链接
+---|---
+manhua.txt|[🔗link](./manhua.txt)
+manhua-plus.txt|[🔗link](./manhua-plus.txt)
+manhua-max.txt|[🔗link](./manhua-max.txt)
 
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua.txt
+### 其它规则
 
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-plus.txt
-
-https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/manhua-max.txt
-
-### 其他部分规则
-
-[233Bazinga-ADH-Multi](./233Bazinga-ADH-Multi.md)
+[其它规则](./other-multi.md)
 
 
 
